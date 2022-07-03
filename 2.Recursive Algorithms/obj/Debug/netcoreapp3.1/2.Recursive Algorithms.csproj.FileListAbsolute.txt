@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\bin\Debug\netcoreapp3.1\2.Recursive Algorithms.exe
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\bin\Debug\netcoreapp3.1\2.Recursive Algorithms.deps.json
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\bin\Debug\netcoreapp3.1\2.Recursive Algorithms.runtimeconfig.json
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\bin\Debug\netcoreapp3.1\2.Recursive Algorithms.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\bin\Debug\netcoreapp3.1\2.Recursive Algorithms.dll
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\bin\Debug\netcoreapp3.1\2.Recursive Algorithms.pdb
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.AssemblyInfo.cs
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.dll
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.pdb
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\2.Recursive Algorithms\obj\Debug\netcoreapp3.1\2.Recursive Algorithms.genruntimeconfig.cache

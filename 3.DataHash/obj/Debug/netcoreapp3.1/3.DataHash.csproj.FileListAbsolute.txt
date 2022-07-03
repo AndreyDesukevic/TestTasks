@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\bin\Debug\netcoreapp3.1\3.DataHash.exe
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\bin\Debug\netcoreapp3.1\3.DataHash.deps.json
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\bin\Debug\netcoreapp3.1\3.DataHash.runtimeconfig.json
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\bin\Debug\netcoreapp3.1\3.DataHash.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\bin\Debug\netcoreapp3.1\3.DataHash.dll
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\bin\Debug\netcoreapp3.1\3.DataHash.pdb
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.AssemblyInfo.cs
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.dll
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.pdb
+C:\Users\andre\source\repos\Test\1.Array(Matrix)\3.DataHash\obj\Debug\netcoreapp3.1\3.DataHash.genruntimeconfig.cache
