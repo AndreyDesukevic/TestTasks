@@ -81,15 +81,7 @@ namespace _3.DataHash
                     case "4":
                         Console.WriteLine("Введите новый номер телефона: ");
                         string newPhoneNumber = Console.ReadLine();
-                        var newUser4 = new User()
-                        {
-                            FirstName = UserWhichEdit.FirstName,
-                            LastName = UserWhichEdit.LastName,
-                            MiddleName = UserWhichEdit.MiddleName,
-                            PhoneNumber = newPhoneNumber
-                        };
-                        PhoneList.phoneList.Add(newUser4.GetHashCode(), newUser4);
-                        PhoneList.phoneList.Remove(keyUserWhichEdit);
+                        UserWhichEdit.PhoneNumber = newPhoneNumber;
                         Console.WriteLine("Номер телефона изменен!");
                         Console.ReadLine();
                         break;

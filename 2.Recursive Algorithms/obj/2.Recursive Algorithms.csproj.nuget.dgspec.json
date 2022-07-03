@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj": {}
+    "C:\\Users\\andre\\Source\\Repos\\TestTasks\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj": {
+    "C:\\Users\\andre\\Source\\Repos\\TestTasks\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Source\\Repos\\TestTasks\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj",
         "projectName": "2.Recursive Algorithms",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj",
+        "projectPath": "C:\\Users\\andre\\Source\\Repos\\TestTasks\\2.Recursive Algorithms\\2.Recursive Algorithms.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\2.Recursive Algorithms\\obj\\",
+        "outputPath": "C:\\Users\\andre\\Source\\Repos\\TestTasks\\2.Recursive Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

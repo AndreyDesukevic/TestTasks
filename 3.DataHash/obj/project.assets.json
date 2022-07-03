@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\3.DataHash\\3.DataHash.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Source\\Repos\\TestTasks\\3.DataHash\\3.DataHash.csproj",
       "projectName": "3.DataHash",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\3.DataHash\\3.DataHash.csproj",
+      "projectPath": "C:\\Users\\andre\\Source\\Repos\\TestTasks\\3.DataHash\\3.DataHash.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\Test\\1.Array(Matrix)\\3.DataHash\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Source\\Repos\\TestTasks\\3.DataHash\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
